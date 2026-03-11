@@ -713,6 +713,8 @@ github.com/hashicorp/golang-lru/arc/v2 v2.0.7/go.mod h1:Pe7gBlGdc8clY5LJ0LpJXMt5
 github.com/hashicorp/golang-lru/v2 v2.0.7 h1:a+bsQ5rvGLjzHuww6tVxozPZFVghXaHOwFs4luLUK2k=
 github.com/hashicorp/golang-lru/v2 v2.0.7/go.mod h1:QeFd9opnmA6QUJc5vARoKUSoFhyfM2/ZepoAG6RGpeM=
 github.com/hpcloud/tail v1.0.0/go.mod h1:ab1qPbhIpdTxEkNHXyeSf5vhxWSCs/tWer42PpOxQnU=
+github.com/hugomoran159/containerd/v2 v2.1.5-k3s1-gvisor h1:Y8bPvCrWtq9Gu1E/F57vvdg1CWcD4ly4xMl4M8wqaLI=
+github.com/hugomoran159/containerd/v2 v2.1.5-k3s1-gvisor/go.mod h1:ZFOeMOvrvPVVxAAYWIBlEtTTcbH/Q7IM1kGNrooupIg=
 github.com/huin/goupnp v1.3.0 h1:UvLUlWDNpoUdYzb2TCn+MuTWtcjXKSza2n6CBdQ0xXc=
 github.com/huin/goupnp v1.3.0/go.mod h1:gnGPsThkYa7bFi/KWmEysQRf48l2dvR5bxr2OFckNX8=
 github.com/iancoleman/strcase v0.2.0/go.mod h1:iwCmte+B7n89clKwxIoIXy/HfoL7AsD47ZCWhYzw7ho=
@@ -789,8 +791,6 @@ github.com/k3s-io/api v0.1.4 h1:mnu1pgtEEwplvDHgjeyekbC96wykUWsq0E5ouJoRkM4=
 github.com/k3s-io/api v0.1.4/go.mod h1:9aQAaTKBFWO+BpGrMFJk9uZaUhZRrL9aahobcOQQm64=
 github.com/k3s-io/cadvisor v0.52.1 h1:KeeADD5no2159ICWnTRTJfExlNbVfhqbo9ohixQ74GM=
 github.com/k3s-io/cadvisor v0.52.1/go.mod h1:OAhPcx1nOm5YwMh/JhpUOMKyv1YKLRtS9KgzWPndHmA=
-github.com/k3s-io/containerd/v2 v2.1.5-k3s1 h1:P3rmxzZP5+UAxwdpUv6G4tkyJYirMEeTXqWbDpit3go=
-github.com/k3s-io/containerd/v2 v2.1.5-k3s1/go.mod h1:ZFOeMOvrvPVVxAAYWIBlEtTTcbH/Q7IM1kGNrooupIg=
 github.com/k3s-io/cri-dockerd v0.3.19-k3s3 h1:fZTPlYTPZaUwh6Z8RTN6jYFjC3gvyW/O4VFKhG03tf4=
 github.com/k3s-io/cri-dockerd v0.3.19-k3s3/go.mod h1:t9ANNTpfHRdsVoKuwd+/INWoGgjQQRHiBENk4yfumSc=
 github.com/k3s-io/cri-tools v1.35.0-k3s2 h1:2NkF77ovhrs9mLBnxwM9pGB5qLzrPvVM23J6buZi82g=
